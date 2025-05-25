@@ -1,6 +1,6 @@
-# SVD_MultiGPUs_Inference
-
 # Multi-GPU Inference for Stable Video Diffusion Models
+
+*Thanks to [ControlNeXt](https://github.com/dvlab-research/ControlNeXt/tree/main/ControlNeXt-SVD-v2) and [Video-Infinity](https://github.com/Yuanshi9815/Video-Infinity) for their implementations that laid the groundwork for this project.*
 
 ## Overview
 This project accelerates video diffusion inference by distributing generation across multiple GPUs.
