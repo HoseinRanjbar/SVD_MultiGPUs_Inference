@@ -11,7 +11,7 @@ Splitting a video into GPU-specific segments introduces visible seams at segment
 <img 
   src="https://github.com/user-attachments/assets/2e2d6faa-c2a0-4675-885e-3348c573a039" 
   alt="Multi-GPU-WO-Exchange" 
-  width="400" 
+  width="600" 
   height="600" 
 />
 ## Solution
