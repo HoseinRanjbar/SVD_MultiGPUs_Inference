@@ -17,3 +17,6 @@ Splitting a video into GPU-specific segments introduces visible seams at segment
 ## Solution
 We optimize context exchange by sharing **only** the critical temporal-attention tensors during the U-Net’s denoising loop. This targeted approach dramatically reduces inter-GPU communication while preserving smooth, coherent video outputs.
 
+![Picture1](https://github.com/user-attachments/assets/b5a6beb1-c684-435d-af31-6d8f25453e52)
+
+
