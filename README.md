@@ -19,5 +19,10 @@ We optimize context exchange by sharing **only** the critical temporal-attention
 
 ![Picture1](https://github.com/user-attachments/assets/01fb576b-21e8-4ef8-a5d6-7619ae1a0276)
 
-
+<img 
+  src="https://github.com/user-attachments/assets/01fb576b-21e8-4ef8-a5d6-7619ae1a0276" 
+  alt="Exchange Temporal Context" 
+  width="800" 
+  height="600" 
+/>
 
